@@ -1,4 +1,4 @@
-# WorkoutCounter-AI
+# Health Is Wealth
 
 ## Inspiration
 We were inspired to create Health is Wealth because we struggled with maintaining proper form during our workout sessions. We realized that without feedback on our technique, it was challenging to make progress and avoid injury.
